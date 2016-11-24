@@ -1,5 +1,6 @@
 /*////////////// Fonts //////////////*/
 
+
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -7,7 +8,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +19,84 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+	font-family: Baskerville, serif;
+	color: rgb(152,173,166);
+	font-size: 5em;
+	padding-bottom: 10px;
+	font-weight: normal;
+	margin: 0 0 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+img[alt="hand crafted Arizona Navajo turquoise stone necklace"] {
+	border: 5px;
+	border-style: solid ;
+	border-color: rgb(152,173,166);
+}
+
+img[alt="National Museum of the American Indian"] {
+	border: 5px;
+	border-style: solid ;
+	border-color: #ccc;
+	padding: 1px;
+
+}
+
+img[alt="The New York Times Style"] {
+	border: 5px;
+	border-style: solid ;
+	border-color: #ccc;
+	padding: 1px;
+
+}
+
+img[alt="Sedona Monthly"] {
+	border: 5px;
+	border-style: solid ;
+	border-color: #ccc;
+	padding: 1px;
+
+}
+
+img[alt="Begdorf Goodman"] {
+	border: 5px;
+	border-style: solid ;
+	border-color: #ccc;
+	padding: 1px;
+
+}
+
+p a:link, p a:visited {
+  color: #1783bb;
+  text-decoration: none;
+}
+
+p a:hover {
+  color: #1783bb;
+  text-decoration: underline;
+}
+
+p a:active {
+  color: #1783bb;
+}
+
+h2 {
+	color: rgb(111,127,122);
+	font-size: 2em;
+}
+
+.press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
+h1:hover {
+
+}
+
+footer {
+	text-align: right;
+	font-size: 0.8em;
+	padding-top: 20px;
+}
